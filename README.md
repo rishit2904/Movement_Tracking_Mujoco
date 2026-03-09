@@ -1,27 +1,4 @@
 
-# Movement Tracking MuJoCo
-
-<div align="center">
-
-![Developer Introduction](./assets/images/bg1.png)
-
-</div>
-
-<div align="center">
-
-![MuJoCo Logo](./assets/images/mujoco-logo.jpg)
-
-### Advanced Humanoid Movement Simulation & Prediction System
-
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
-[![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org)
-[![MuJoCo](https://img.shields.io/badge/MuJoCo-Physics-orange.svg)](https://mujoco.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00.svg)](https://tensorflow.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-</div>
-
-## 🚀 Overview
 
 Movement Tracking MuJoCo is a cutting-edge project that harnesses the power of **MuJoCo physics simulation** combined with **machine learning** to create an intelligent humanoid movement analysis system. This project seamlessly integrates:
 
