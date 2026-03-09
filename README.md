@@ -409,43 +409,6 @@ Contributions are encouraged! To contribute:
 
 For significant changes, open an issue first. Adhere to the project’s coding style and document new features.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
-
-## 📞 Contact & Support
-
-<div align="center">
-
-### 👨‍💻 **Arhaan**
-**AI/ML Engineer | Robotics Researcher**
-
-[![Email](https://img.shields.io/badge/Email-17arhaan%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:17arhaan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arhaanportfolio.in-blue?style=for-the-badge&logo=web)](https://arhaanportfolio.in)
-[![GitHub](https://img.shields.io/badge/GitHub-17arhaan-black?style=for-the-badge&logo=github)](https://github.com/17arhaan)
-
-</div>
-
-### 🤝 Get Involved
-
-- 🐛 **Found a bug?** [Open an issue](https://github.com/17arhaan/Movement_Tracking_Mujoco/issues)
-- 💡 **Have an idea?** [Start a discussion](https://github.com/17arhaan/Movement_Tracking_Mujoco/discussions)
-- 🔧 **Want to contribute?** Check our [Contributing Guidelines](#contributing)
-- 📧 **Need help?** Email us at [17arhaan@gmail.com](mailto:17arhaan@gmail.com)
-
-### 🌟 Show Your Support
-
-If this project helped you, please consider:
-
-- ⭐ **Starring** the repository
-- 🍴 **Forking** for your own experiments  
-- 📢 **Sharing** with the community
-- 💬 **Contributing** improvements
-
----
-
-<div align="center">
-
 **🚀 Built with passion for advancing human movement simulation**
 
 *Made with ❤️ by [Arhaan](https://github.com/17arhaan)*
